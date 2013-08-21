@@ -1,0 +1,42 @@
+          <h1>Become a Member!</h1>
+          <div id="tab">
+              <ul class="nav">
+                <li class="nav-one"><a href="#membershipcards" class="current">Membership Cards</a></li>
+                <li class="nav-two"><a href="#personaltraining">Personal Training</a></li>
+                <li class="nav-three"><a href="#specialcards">Special Cards</a></li>
+              </ul>
+              <div class="list-wrap">
+                <div id="membershipcards">
+                  <ul class="caltime">
+                  <li><span><a href="#">One Time Entry</a></span><small>$5.00</small></li>
+                    <li><span><a href="#">Weekly Card</a></span><small>$30.00</small></li>
+                    <li><span><a href="#">Monthly Card</a></span><small>$90.00</small></li>
+                    <li><span><a href="#">Annual Card</a></span><small>$900.00</small></li>
+                  </ul>
+                </div>
+                <div id="personaltraining" class="hide">
+          <ul class="caltime">
+                        <li><span><a href="#">One Day Session</a></span><small>$5.00</small></li>
+                        <li><span><a href="#">3 Days Session</a></span><small>$30.00</small></li>
+                        <li><span><a href="#">7 Days Session</a></span><small>$90.00</small></li>
+                    </ul>               
+                </div>
+                <div id="specialcards" class="hide">
+                  <ul class="caltime card">
+                        <li><span><a href="#">Junior Card</a></span><small>5% Off</small></li>
+                        <li><span><a href="#">Senior Card</a></span><small>20% Off</small></li>
+                        <li><span><a href="#">Family Card</a></span><small>10% Off</small></li>
+                    </ul>               
+                </div>
+              </div>
+            </div><!--end:tab-->
+          <h2>About Us</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus nulla ullamcorper dolor tincidunt adipiscing imperdiet dolor bibendum. Donec sed metus eu ligula laoreet volutpat non nec eros. Integer sollicitudin felis eu turpis euismod sit amet consequat tellus tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus enim ipsum, pretium eu tristique quis, sagittis at arcu. Maecenas arcu felis, tempor sit amet dignissim sit amet, facilisis vitae ante. Integer vehicula dictum leo eu hendrerit. Etiam nibh ligula, mattis sed vestibulum quis, ultrices at nulla. Aenean vel est arcu, nec gravida lectus. Nullam accumsan, felis sed rhoncus porttitor, augue purus ultrices mi, nec rutrum magna odio eget quam. Proin ac dolor et odio placerat rhoncus. Pellentesque nunc nunc, facilisis sit amet lobortis ac, euismod nec enim.</p><br>
+            <h2>Blockquote</h2>
+            <blockquote>Suspendisse rhoncus facilisis adipiscing. Vestibulum eu ligula lorem. Vivamus orci sem, consectetur ut vestibulum a, semper ac dui. Aenean tellus nisl, commodo eu aliquet ut, pulvinar ut sapien. Proin vulputate aliquam mi nec hendrerit. Sed fermentum velit vel ipsum bibendum tristique. </blockquote>
+            <div class="whole">
+              <img class="imageleft" src="images/blog/blog-thumb-1.jpg" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus nulla ullamcorper dolor tincidunt adipiscing imperdiet dolor bibendum. Donec sed metus eu ligula laoreet volutpat non nec eros. Integer sollicitudin felis eu turpis euismod sit amet consequat tellus tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus enim ipsum, pretium eu tristique quis, sagittis at arcu. Maecenas arcu felis, tempor sit amet dignissim sit amet, facilisis vitae ante. Integer vehicula dictum leo eu hendrerit. Etiam nibh ligula, mattis sed vestibulum quis, ultrices at nulla. Aenean vel est arcu, nec gravida lectus. Nullam accumsan, felis sed rhoncus porttitor, augue purus ultrices mi, nec rutrum magna odio eget quam. Proin ac dolor et odio placerat rhoncus. Pellentesque nunc nunc, facilisis sit amet lobortis ac, euismod nec enim.</p>
+              <img class="imageright" src="images/blog/blog-thumb-2.jpg" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus nulla ullamcorper dolor tincidunt adipiscing imperdiet dolor bibendum. Donec sed metus eu ligula laoreet volutpat non nec eros. Integer sollicitudin felis eu turpis euismod sit amet consequat tellus tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus enim ipsum, pretium eu tristique quis, sagittis at arcu. Maecenas arcu felis, tempor sit amet dignissim sit amet, facilisis vitae ante. Integer vehicula dictum leo eu hendrerit. Etiam nibh ligula, mattis sed vestibulum quis, ultrices at nulla. Aenean vel est arcu, nec gravida lectus. Nullam accumsan, felis sed rhoncus porttitor, augue purus ultrices mi, nec rutrum magna odio eget quam. Proin ac dolor et odio placerat rhoncus. Pellentesque nunc nunc, facilisis sit amet lobortis ac, euismod nec enim.</p>
+

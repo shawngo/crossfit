@@ -1,0 +1,21 @@
+name = Crossfit 
+description = Theme for East Troy Body Shop.
+version = 7.x-1.0
+core = 7.x
+
+regions[sidebar_first]  = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[nav] = Navigation 
+regions[header] = Header
+regions[footer] = Footer
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[page_top] = Page Top
+regions[page_bottom] = Page Bottom
+
+stylesheets[all][] = style.css
+stylesheets[print][] = print.css
+
+scripts[] = js/google.js
+scripts[] = js/gmaps.js
